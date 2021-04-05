@@ -4,6 +4,8 @@
 
 ## Tools Used: Python, TweePy, Pandas, Matplotlib, Seaborn, MySQL, MongoDB, Tableau
 
+## Use Cases Covered
+
 - Plot the top 20 most popular hashtags with the number of tweets in each categories.
 - Display the geographic locations of the collected tweets using Tableau.
 - Analyze and predict 20 most mentioned tweet accounts.
